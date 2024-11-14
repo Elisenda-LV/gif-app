@@ -1,10 +1,22 @@
 # Gif App
 
 Application to display GIFs using a search engine. It is developed with React, Vite, and JavaScript. Testing is done with Jest.
-
 This project demonstrates component communication, the use of hooks and custom hook creation, as well as the use of helpers.
 
-- [Gif App](https://gif-app-smoky.vercel.app)
+## How to run the app:
+
+- Install the dependencies:
+
+```sh
+npm install
+```
+
+- Run the app:
+
+```sh
+npm run dev
+```
+
 
 Currently, two official plugins are available:
 
