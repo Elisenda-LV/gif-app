@@ -3,7 +3,7 @@
 Application to display GIFs using a search engine. It is developed with React, Vite, and JavaScript. Testing is done with Jest.
 This project demonstrates component communication, the use of hooks and custom hook creation, as well as the use of helpers.
 
-## How to run the app:
+#### How to run the app:
 
 - Install the dependencies:
 
