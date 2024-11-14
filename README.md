@@ -1,6 +1,10 @@
-# React + Vite
+# Gif App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application to display GIFs using a search engine. It is developed with React, Vite, and JavaScript. Testing is done with Jest.
+
+This project demonstrates component communication, the use of hooks and custom hook creation, as well as the use of helpers.
+
+- [Gif App](https://gif-app-smoky.vercel.app)
 
 Currently, two official plugins are available:
 
